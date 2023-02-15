@@ -1,0 +1,11 @@
+{
+    "env": {
+        "CONFIG_FILE_URL": {
+            "required": true},
+        "HEROKU_APP_NAME": {
+            "required": false},
+        "HEROKU_API_KEY": {
+            "required": false}
+    },
+    "stack": "container"
+}
